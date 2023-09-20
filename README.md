@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm Gonzalo Herrero</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# ¡Hola, soy Gonzalo!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coyuyoutn&label=Profile%20views&color=0e75b6&style=flat" alt="coyuyoutn" /> </p>
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con experiencia en una variedad de tecnologías y lenguajes. Actualmente, me especializo en el desarrollo web utilizando Laravel y React. Aquí encontrarás información sobre mí, mis proyectos y cómo contactarme.
 
-- 🔭 I’m currently working on **React projects**
+## Sobre mí
+- 🎓 Graduado de la UTN de Mar del Plata como **Técnico Universitario Superior en Programación**.
+- 💼 Profesionalmente, me he desempeñado en proyectos que involucran:
+  - **Lenguajes**: C, Java, PHP.
+  - **Frameworks**: Laravel, React.
+  - **Herramientas**: Gitlab, Github.
+  - **Bases de Datos**: MySQL, Firebase.
+  - **Tecnologías Front-end**: JavaScript, HTML, CSS, Bootstrap, Ant Design.
+- 🔗 ¡No dudes en visitar mi [LinkedIn](https://www.linkedin.com/in/herrerogonzalo/) para conocer más detalles sobre mi experiencia y habilidades!
 
-- 🌱 I’m currently learning **React and Bootstrap**
+## Proyectos Destacados
+- 🔗 [Lavadero webPage]([URL_DEL_PROYECTO_1](https://lavadero-aguitas.netlify.app/)) - Trabajo como Freelancer con React.js - Este proyecto tiene como objetivo crear una página web para un servicio de lavandería. El proceso de desarrollo sigue la metodología ágil de Kanban, incluyendo reuniones con el cliente para asegurar el montaje preciso del proyecto. Se utiliza Bootstrap y Ant Design para el diseño y la maquetación de la página. Se implementa React Router Dom para una navegación eficiente dentro de la aplicación. GitHub se utiliza para un control adecuado del proyecto, facilitando el control de versiones y la colaboración. Además, se emplea CSS puro y una librería de animaciones para dar estilo y atractivo visual a la página web.
+- 🔗 [Logistica webPage]([FREELANCER](https://minifletes-tioyuyo.netlify.app/)) -  Trabajo como Freelancer con React.js -  Este proyecto se enfoca en crear una página web para un servicio de carga y transporte. El sitio web se construye utilizando el framework Gatsby, asegurando un rendimiento eficiente y optimizado. Se emplea la metodología ágil de Kanban, que incluye reuniones con el cliente para garantizar el montaje preciso del proyecto y cumplir con los requisitos. Se utiliza React-bootstrap para el diseño y el estilo de la página web, proporcionando una interfaz receptiva y visualmente atractiva. GitHub se emplea para un control adecuado del proyecto, la gestión de versiones y la colaboración entre los miembros del equipo. Se utiliza CSS puro y una librería de animaciones para mejorar el estilo de la página e incorporar animaciones atractivas para una experiencia de usuario más interactiva.
+- 🔗 [CRUD con Laravel 10]([URL_DEL_PROYECTO_3](https://github.com/CoyuyoUTN/CRUD-Laravel)) - He desarrollado un proyecto personal utilizando Laravel 10, centrado en implementar un sistema CRUD para gestionar notas junto con tareas asociadas. El proyecto utilizó Laragon como entorno de desarrollo y empleó una base de datos relacional MySQL para la gestión de datos. Esta tarea demuestra mi competencia en el framework Laravel, la gestión de bases de datos y el desarrollo de aplicaciones web.
 
-- 👨‍💻 All of my projects are available at [[https://gonzaloherrero2.wixsite.com/gonzah](https://gonzaherrero-portfolio.netlify.app/)]([https://gonzaloherrero2.wixsite.com/gonzah](https://gonzaherrero-portfolio.netlify.app/))
+## Portafolio
+Para ver más proyectos y ejemplos de mi trabajo, visita mi [Portafolio](https://gonzaherrero-portfolio.netlify.app/).
 
-- 📫 How to reach me **gonzaloherrero2@gmail.com**
+## Contacto
+Si deseas contactarme para colaboraciones, oportunidades de trabajo o simplemente charlar sobre programación, no dudes en escribirme:
+- 📧 Email: gonzaloherrero@gmail.com
+- 🔗 [LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/herrerogonzalo/))
+- 📄 [Currículum Vitae (CV)]([URL_DEL_CV](https://coyuyoutn.github.io/cv-react/))
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/herrerogonzalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/herrerogonzalo/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/303730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="303730" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gonza__herrero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gonza__herrero/" height="30" width="40" /></a>
-<a href="https://discord.gg/#1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1999" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coyuyoutn&show_icons=true&locale=en&layout=compact" alt="coyuyoutn" /></p>
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesante mi trabajo y proyectos. No dudes en conectarte conmigo en LinkedIn o enviarme un correo electrónico. ¡Hablemos pronto!
