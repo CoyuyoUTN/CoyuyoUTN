@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://gonzaloherrero2.wixsite.com/gonzah](https://gonzaloherrero2.wixsite.com/gonzah)
+- 👨‍💻 All of my projects are available at [[https://gonzaloherrero2.wixsite.com/gonzah](https://gonzaherrero-portfolio.netlify.app/)]([https://gonzaloherrero2.wixsite.com/gonzah](https://gonzaherrero-portfolio.netlify.app/))
 
 - 📫 How to reach me **gonzaloherrero2@gmail.com**
 
