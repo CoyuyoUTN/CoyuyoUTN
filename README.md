@@ -23,7 +23,7 @@ Para ver más proyectos y ejemplos de mi trabajo, visita mi [Portafolio](https:/
 ## Contacto
 Si deseas contactarme para colaboraciones, oportunidades de trabajo o simplemente charlar sobre programación, no dudes en escribirme:
 - 📧 Email: gonzaloherrero@gmail.com
-- 🔗 [LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/herrerogonzalo/))
-- 📄 [Currículum Vitae (CV)]([URL_DEL_CV](https://coyuyoutn.github.io/cv-react/))
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/herrerogonzalo/)
+- 📄 [Currículum Vitae (CV)](https://coyuyoutn.github.io/cv-react/)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesante mi trabajo y proyectos. No dudes en conectarte conmigo en LinkedIn o enviarme un correo electrónico. ¡Hablemos pronto!
